@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCM6oY6OSaPBnd7Z5V3D4zd38hDVU733Aw",
-  authDomain: "pet-profile-8aece.firebaseapp.com",
-  databaseURL: "https://pet-profile-8aece-default-rtdb.firebaseio.com",
-  projectId: "pet-profile-8aece",
-  storageBucket: "pet-profile-8aece.firebasestorage.app",
-  messagingSenderId: "794969406",
-  appId: "1:794969406:web:127ed560e8028f6674186f"
+  apiKey: " ",
+  authDomain: " ",
+  databaseURL: " ",
+  projectId: " ",
+  storageBucket: " ",
+  messagingSenderId: " ",
+  appId: " "
 };
 
 firebase.initializeApp(firebaseConfig);
