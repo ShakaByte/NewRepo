@@ -4,12 +4,12 @@ import { getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/12.
 
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBW1LmHJEv0--cx7juRSkXjqsvQZFp5hvM",
-    authDomain: "myproject-4cc8e.firebaseapp.com",
-    projectId: "myproject-4cc8e",
-    storageBucket: "myproject-4cc8e.firebasestorage.app",
-    messagingSenderId: "963491494592",
-    appId: "1:963491494592:web:54c8336f45da9df98e8b25"
+    apiKey: " ",
+    authDomain: " ",
+    projectId: " ",
+    storageBucket: " ",
+    messagingSenderId: " ",
+    appId: " "
   };
 
   // Initialize Firebase
